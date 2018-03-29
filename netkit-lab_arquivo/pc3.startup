@@ -1,0 +1,2 @@
+ifconfig eth0 140.30.128.5 netmask 255.255.128.0 up
+route add default gw 140.30.128.1
